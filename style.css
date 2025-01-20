@@ -5,16 +5,10 @@
     box-sizing: border-box;
 }
 
-body, html {
-    height: 100%;
-    font-family: 'Poppins', sans-serif;
-}
 body {
-    background-image: url('static/bg.png'); /* Укажите путь к вашей картинке */
-    background-size: cover; /* Растягиваем картинку на весь экран */
-    background-position: center; /* Центрируем картинку */
-    background-attachment: fixed; /* Картинка остается фиксированной при прокрутке */
-    height: 200vh;
+        background-image: radial-gradient(circle, #ff7e5f, #feb47b); /* Радиальный градиент */
+        height: 100vh; /* Задаем высоту для полной растяжки */
+        margin: 0; /* Убираем отступы */
 }
 
 /* Меню */
