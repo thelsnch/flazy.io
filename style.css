@@ -14,7 +14,7 @@ body {
     background-size: cover; /* Растягиваем картинку на весь экран */
     background-position: center; /* Центрируем картинку */
     background-attachment: fixed; /* Картинка остается фиксированной при прокрутке */
-    height: 200vh;
+    height: 20vh;
 }
 
 /* Меню */
