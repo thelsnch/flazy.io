@@ -10,7 +10,7 @@ body, html {
     font-family: 'Poppins', sans-serif;
 }
 body {
-    background-image: url('static/bg.jpg'); /* Укажите путь к вашей картинке */
+    background-image: url('static/bg.png'); /* Укажите путь к вашей картинке */
     background-size: cover; /* Растягиваем картинку на весь экран */
     background-position: center; /* Центрируем картинку */
     background-attachment: fixed; /* Картинка остается фиксированной при прокрутке */
